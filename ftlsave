@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ftl_save_dir=".local/share/FasterThanLight/"
+ftl_save_dir="$HOME/.local/share/FasterThanLight/"
 ftl_save_file="continue.sav"
 
 user_save_dir="$HOME/.ftlsave/"
